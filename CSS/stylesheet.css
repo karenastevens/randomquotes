@@ -1,10 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Bubbler+One');
+@import url('https://fonts.googleapis.com/css?family=Alice');
 
 /* body */
 
 body {
-  background-color: white;
-  font-family: 'Bubbler One', sans-serif;
+  background-image: url("http://i68.tinypic.com/wu1pxl.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: lightblue;
+  font-family: 'Alice', serif;
 }
 
 h1 {
@@ -14,7 +19,6 @@ h1 {
 }
 
 h2 {
-  text-align: center;
   font-size: 35px;
 }
 
@@ -24,7 +28,7 @@ h2 {
 }
 
 #quote-box {
-  background-color: lightgray;
+  background-color: white;
   padding: 20px 20px 20px 20px;
   margin-left: 60px;
   margin-right: 60px;
