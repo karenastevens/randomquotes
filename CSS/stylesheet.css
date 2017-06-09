@@ -39,3 +39,9 @@ h2 {
   font-weight: bold;
   font-size: 30px;
 }
+
+#twitter-pic {
+  text-align: center;
+  height: 40px;
+  width: 40px;
+}
